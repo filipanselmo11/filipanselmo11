@@ -14,3 +14,9 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
+<!--Intro start-->
+- 🌱 Atualmente estou aprendendo **tecnologias voltadas para backend, como Laravel, FastApi e Node**
+
+- 📫 Sinta-se à vontade para entrar em contato comigo **filipanselmoalvesdasilva870@gmail.com**
+
+<!--Intro end-->
