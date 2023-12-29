@@ -37,10 +37,16 @@
   </a>
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
-![Fílip GitHub stats](https://github-readme-stats.vercel.app/api?username=filipanselmo11&show_icons=true&theme=merko)
+<!-- ![Fílip GitHub stats](https://github-readme-stats.vercel.app/api?username=filipanselmo11&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipanselmo11&layout=compact)](https://github.com/filipanselmo11/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipanselmo11&layout=compact)](https://github.com/filipanselmo11/github-readme-stats) -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
