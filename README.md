@@ -37,8 +37,6 @@
   </a>
 </p>
 
-![Fílip GitHub stats](https://github-readme-stats.vercel.app/api?username=filipanselmo11&show_icons=true&theme=merko)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipanselmo11&layout=compact)](https://github.com/filipanselmo11/github-readme-stats)
 
 
