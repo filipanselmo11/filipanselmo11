@@ -36,3 +36,14 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,github,html,js,linux,materialui,bash,mysql,nodejs,postman,py,react,tailwind,ts,vscode,vue,php,vite,angular,fastapi,laravel,ipfs,postgres,prisma,vercel&perline=14" />
   </a>
 </p>
+
+
+![Fílip GitHub stats](https://github-readme-stats.vercel.app/api?username=filipanselmo11&show_icons=true&theme=merko)
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
