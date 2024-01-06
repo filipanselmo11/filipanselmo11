@@ -37,10 +37,6 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipanselmo11&layout=compact)](https://github.com/filipanselmo11/github-readme-stats)
-
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <!-- <div id="user-content-toc">
