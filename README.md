@@ -1,5 +1,5 @@
 ## Fílip Anselmo
-- [Gmail (filipanselmoalvesdasilva870@gmail.com)]
+- [Gmail](filipanselmoalvesdasilva870@gmail.com)
 - [LinkedIn](www.linkedin.com/in/fílip-anselmo-04b651152)
 
 ## Tecnologias
