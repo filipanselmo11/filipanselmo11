@@ -1,4 +1,4 @@
-## Autor
+## Fílip Anselmo
 **[Olá sou o Fílip]**
 - [LinkedIn](www.linkedin.com/in/fílip-anselmo-04b651152)
 
