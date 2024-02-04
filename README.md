@@ -1,44 +1,30 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Autor
+**[Olá sou o Fílip]**
+- [LinkedIn](www.linkedin.com/in/fílip-anselmo-04b651152)
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">
-        Oi 👋, Eu sou o Fílip
-      </h1>
-    </summary>
-  </ul>
-</div>
+## Tecnologias Utilizadas
+- JavaScript
+- HTML
+- CSS
+- TypeScript
+- Python
+- Java
+- PHP
 
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
+## Frameworks e Bibliotecas
+- Node.js
+- Vue.js
+- Angular
+- Laravel
+- Tailwind CSS
+- Vuetify
+- Bootstrap
+- Prisma
+- MongDb
+- MySql
+- PostgresSql
 
-<!--Intro start-->
-- 📫 Sinta-se à vontade para entrar em contato comigo **filipanselmoalvesdasilva870@gmail.com**
+## Ferramentas e Plataformas
+- Vercel
+- Vite
 
-<!--Intro end-->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">Tecnologias que eu conheço👨🏻‍💻</h2>
-    </summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,express,github,html,js,linux,materialui,bash,mysql,nodejs,postman,py,react,tailwind,ts,vscode,vue,php,vite,angular,fastapi,laravel,ipfs,postgres,prisma,vercel&perline=14" />
-  </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div> -->
