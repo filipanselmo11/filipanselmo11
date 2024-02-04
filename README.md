@@ -20,6 +20,9 @@
 - Vuetify
 - Bootstrap
 - Prisma
+- TypeOrm
+- Spring Boot
+- Nest.js
 - MongDb
 - MySql
 - PostgresSql
