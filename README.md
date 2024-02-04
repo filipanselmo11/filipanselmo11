@@ -15,8 +15,6 @@
 </div>
 
 <!--Intro start-->
-- 🌱 Atualmente estou aprendendo **tecnologias voltadas para backend, como Laravel, FastApi e Node**
-
 - 📫 Sinta-se à vontade para entrar em contato comigo **filipanselmoalvesdasilva870@gmail.com**
 
 <!--Intro end-->
