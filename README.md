@@ -1,8 +1,8 @@
 ## Fílip Anselmo
-**[Olá sou o Fílip]**
+- [Gmail (filipanselmoalvesdasilva870@gmail.com)]
 - [LinkedIn](www.linkedin.com/in/fílip-anselmo-04b651152)
 
-## Tecnologias Utilizadas
+## Tecnologias
 - JavaScript
 - HTML
 - CSS
