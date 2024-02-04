@@ -15,6 +15,7 @@
 - Node.js
 - Vue.js
 - Angular
+- React
 - Laravel
 - Tailwind CSS
 - Vuetify
