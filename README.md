@@ -45,15 +45,6 @@
    </a>  
   </p>
   <br />
-  
-  <!-- About Section -->
-   # Sobre Me
-  <p>
-   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-   📧 &emsp; Pode me contatar: filipanselmoalvesdasilva870@gmail.com<br/><br/>
-  </p>
-  
-  <br/>
 
   ## Tecnologias
 
