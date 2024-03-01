@@ -51,8 +51,7 @@
    
   <p>
    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-   📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
-   💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+   📧 &emsp; Pode me contatar: filipanselmoalvesdasilva870@gmail.com<br/><br/>
   
   </p>
   
