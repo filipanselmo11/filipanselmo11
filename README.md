@@ -51,13 +51,10 @@
   <p>
    <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
    📧 &emsp; Pode me contatar: filipanselmoalvesdasilva870@gmail.com<br/><br/>
-  
   </p>
   
   <br/>
-  <br/>
-  <br/>
-  
+
   ## Tecnologias
 
   ![Angular](https://skillicons.dev/icons?i=angular)
@@ -100,7 +97,6 @@
   
   <br/>
   <hr/>
-  <br/>
   
   <p align="center">
     <a href="https://github.com/filipanselmo11">
