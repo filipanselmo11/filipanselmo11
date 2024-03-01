@@ -60,9 +60,12 @@
   
   ## Tecnologias
 
-  ![HTML](https://skillicons.dev/icons?i=html)
-  ![CSS](https://skillicons.dev/icons?i=css)
-  ![Javascript](https://skillicons.dev/icons?i=js)
+  ![Angular](https://skillicons.dev/icons?i=angular)
+  ![Bash](https://skillicons.dev/icons?i=bash)
+  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+  ![Css](https://skillicons.dev/icons?i=css)
+  ![Django](https://skillicons.dev/icons?i=django)
+  ![Docker](https://skillicons.dev/icons?i=docker)
   
   <br/>
   <hr/>
