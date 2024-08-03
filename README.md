@@ -39,10 +39,7 @@
   <p align="center">
    <a href="https://linkedin.com/in/filip-anselmo-04b651152" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="filip"/>
-   </a>
-   <a href="https://instagram.com/filip_anselmo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="filip" />
-   </a>  
+   </a> 
   </p>
   <br />
 
