@@ -105,4 +105,7 @@
 
   <p align="center">
     <h1>Experiência Profissional</h1>
+    <ul>
+      <li>Estágio em Tecnologia da Informação no Tribunal de Contas do Estado do Amazonas</li>
+    </ul>
   </p>
