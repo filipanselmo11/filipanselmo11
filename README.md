@@ -106,5 +106,11 @@
       <li>
         <strong>Estágio em Tecnologia da Informação no Tribunal de Contas do Estado do Amazonas</strong>
       </li>
+      <li>
+        <p>
+          Atuei como estagiário em desenvolvimento de software, focado em front end. Participei do projeto de reescrita de um sistema interno chamado Spede.
+          Fui responsável por desenvolver componentes reutilizáveis utilizando o framework Vue Js e a biblioteca de componentes PrimeVue e também realizava o consumo de APis utilizando o axios.
+        </p>
+      </li>
     </ul>
   </p>
