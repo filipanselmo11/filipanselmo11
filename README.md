@@ -148,5 +148,10 @@
           </ul>
         </p>
       </li>
+      <li>
+        <p>
+          Competências:
+        </p>
+      </li>
     </ul>
   </p>
