@@ -153,5 +153,10 @@
           Competências: Vue.js, Vuetify.js, Vuexy, Vue Router, Vuex, HTML5, CSS3, JavaScript, jQuery, Openlayers, Leaflet, Highcharts, consumo de APIs, SCRUM, Confluence, Jira, Git, GitFlow,                 Bitbucket, Typescript
         </p>
       </li>
+      <li>
+        <strong>
+          Estagiário em TI - Front End - Tribunal de Contas do Estado do Amazonas - Jul 2019 - Jul 2021
+        </strong>
+      </li>
     </ul>
   </p>
