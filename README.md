@@ -104,12 +104,38 @@
     <h1>Experiência Profissional</h1>
     <ul>
       <li>
-        <strong>Estágio em Tecnologia da Informação no Tribunal de Contas do Estado do Amazonas</strong>
+        <strong>
+          Desenvolvedor de Software Jr - Front End
+        </strong>
       </li>
       <li>
         <p>
-          Atuei como estagiário em desenvolvimento de software, focado em front end. Participei do projeto de reescrita de um sistema interno chamado Spede.
-          Fui responsável por desenvolver componentes reutilizáveis utilizando o framework Vue Js e a biblioteca de componentes PrimeVue e também realizava o consumo de APis utilizando o Axios.
+          Fui responsável pelo desenvolvimento/manutenção de aplicações front-end web,
+          utilizando Vue.js e Vuetify.js, atuando na criação de Landing pages, dashboards,
+          gráficos, tabelas, formulários, cards, modais e templates de e-mail, garantindo
+          responsividade e compatibilidade com diferentes navegadores e dispositivos,
+          realizando integrações com APIs desenvolvidas pela equipe back-end. utilizando o
+          Openlayers e Leaflet para manipulação de camadas espaciais em projeto SCRUM
+          com foco em dados climatológicos e hidrológicos.
+        </p>
+      </li>
+      <li>
+        <p>
+          Participei de reuniões diárias para discutir o progresso das atividades das sprints.
+          Participei de reuniões para refinamento dos produtos e planejamento das atividades.
+          Colaboração e Comunicação de forma eficiente em conjunto com a equipe (back-end, Designers, Product Owner, Scrum Master, Tech Lead, Tech Manager)
+        </p>
+      </li>
+      <li>
+        <p>
+          Projetos:
+          <ul>
+            <li>
+              <span>
+                InfoHidro: Sistema de Monitoramento Hidrológico da Sanepar
+              </span>
+            </li>
+          </ul>
         </p>
       </li>
     </ul>
