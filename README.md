@@ -105,7 +105,7 @@
     <ul>
       <li>
         <strong>
-          Desenvolvedor de Software Jr - Front End
+          Desenvolvedor de Software Jr - Front End - Join Creative Tech - Jan 2022 - Jul 2023
         </strong>
       </li>
       <li>
