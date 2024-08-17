@@ -135,6 +135,16 @@
                 InfoHidro: Sistema de Monitoramento Hidrológico da Sanepar
               </span>
             </li>
+            <li>
+              <span>
+                StormBoard: Sistema de Gerenciamento de Alertas Climatológicos do Simepar.
+              </span>
+            </li>
+            <li>
+              <span>
+                SCGE: Sistema da Controladoria Geral do Estado de Pernambuco.
+              </span>
+            </li>
           </ul>
         </p>
       </li>
