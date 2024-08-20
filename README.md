@@ -71,7 +71,6 @@
   ![Prisma](https://skillicons.dev/icons?i=prisma)
   ![Python](https://skillicons.dev/icons?i=py)
   ![React](https://skillicons.dev/icons?i=react)
-  ![Sass](https://skillicons.dev/icons?i=sass)
   ![Spring](https://skillicons.dev/icons?i=spring)
   ![Sqlite](https://skillicons.dev/icons?i=sqlite)
   ![Tailwind](https://skillicons.dev/icons?i=tailwind)
