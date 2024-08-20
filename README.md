@@ -158,5 +158,10 @@
           Estagiário em TI - Front End - Tribunal de Contas do Estado do Amazonas - Jul 2019 - Jul 2021
         </strong>
       </li>
+      <li>
+        <p>
+          Fui responsável pelo desenvolvimento de aplicações front-end web, utilizando HTML, CSS, JavaScript, Vuejs e PrimeVue, realizando integrações com APIS...
+        </p>
+      </li>
     </ul>
   </p>
