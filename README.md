@@ -159,7 +159,22 @@
       </li>
       <li>
         <p>
-          Fui responsável pelo desenvolvimento de aplicações front-end web, utilizando HTML, CSS, JavaScript, Vuejs e PrimeVue, realizando integrações com APIS...
+          Fui responsável pelo desenvolvimento de aplicações front-end web, utilizando HTML, CSS, JavaScript, Vue.js e PrimeVue, realizando integrações com APIs desenvolvidas pela equipe back-end.
+        </p>
+      </li>
+      <li>
+        <p>
+          Projetos:
+          <ul>
+            <li>
+              Spede
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          Competências: HTML5, CSS3, JavaScript, Vue.js,Vue Router, PrimeVue, Slack, SCRUM, Git, GitLab.
         </p>
       </li>
     </ul>
