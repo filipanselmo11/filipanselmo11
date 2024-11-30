@@ -73,7 +73,7 @@
   ![Vscode](https://skillicons.dev/icons?i=vscode)
   ![Vue](https://skillicons.dev/icons?i=vue)
   ![Vuetify](https://skillicons.dev/icons?i=vuetify)
-  ![Windows](https://skillicons.dev/icons?i=windows)
+  ![FastAPi](https://skillicons.dev/icons?i=fastapi)
   
   <br/>
   <hr/>
