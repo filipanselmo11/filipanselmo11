@@ -74,6 +74,8 @@
   ![Vue](https://skillicons.dev/icons?i=vue)
   ![Vuetify](https://skillicons.dev/icons?i=vuetify)
   ![FastAPi](https://skillicons.dev/icons?i=fastapi)
+  ![Pinia](https://skillicons.dev/icons?i=pinia)
+  ![Next](https://skillicons.dev/icons?i=next)
   
   <br/>
   <hr/>
