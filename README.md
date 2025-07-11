@@ -76,6 +76,7 @@
   ![FastAPi](https://skillicons.dev/icons?i=fastapi)
   ![Pinia](https://skillicons.dev/icons?i=pinia)
   ![Next](https://skillicons.dev/icons?i=next)
+  ![Java](https://skillicons.dev/icons?i=java)
   
   <br/>
   <hr/>
