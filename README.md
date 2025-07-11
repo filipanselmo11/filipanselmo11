@@ -78,6 +78,7 @@
   ![Next](https://skillicons.dev/icons?i=next)
   ![Java](https://skillicons.dev/icons?i=java)
   ![C++](https://skillicons.dev/icons?i=cpp)
+  ![C#](https://skillicons.dev/icons?i=cs)
   
   <br/>
   <hr/>
