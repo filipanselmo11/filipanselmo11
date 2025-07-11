@@ -80,7 +80,8 @@
   ![C++](https://skillicons.dev/icons?i=cpp)
   ![C#](https://skillicons.dev/icons?i=cs)
   ![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
-  
+  ![Unity](https://skillicons.dev/icons?i=unity)
+  ![UnrealEngine](https://skillicons.dev/icons?i=unrealengine)
   <br/>
   <hr/>
   
