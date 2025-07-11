@@ -82,6 +82,8 @@
   ![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
   ![Unity](https://skillicons.dev/icons?i=unity)
   ![UnrealEngine](https://skillicons.dev/icons?i=unrealengine)
+  ![Debian](https://skillicons.dev/icons?i=debian)
+  ![IntelliJ](https://skillicons.dev/icons?i=intellij)
   <br/>
   <hr/>
   
