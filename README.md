@@ -79,6 +79,7 @@
   ![Java](https://skillicons.dev/icons?i=java)
   ![C++](https://skillicons.dev/icons?i=cpp)
   ![C#](https://skillicons.dev/icons?i=cs)
+  ![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
   
   <br/>
   <hr/>
